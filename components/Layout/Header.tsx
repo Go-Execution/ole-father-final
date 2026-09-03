@@ -12,7 +12,9 @@ export default function Header() {
         <Link href="/#featured">New</Link>
         <Link href="/#collections">Collections</Link>
       </div>
-      <Link href="/" className="logo">OLE FATHER</Link>
+      <Link href="/" className="logo">
+        <img src="/logo.jpg" alt="Ole Father Logo" style={{ height: "120px", width: "auto", objectFit: "contain", display: "block" }} />
+      </Link>
       <div className="nav-right">
         <Link href="/about">About</Link>
         <Link href="/contact">Contact</Link>
