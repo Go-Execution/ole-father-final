@@ -94,7 +94,7 @@ export default function Home() {
           </div>
         </div>
         <div className="hero-img">
-          <img ref={heroImgRef} src="https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=1200&q=80" alt="Model wearing Ole Father graphic tee" style={{height: "120%"}} />
+          <img ref={heroImgRef} src="/9d66f84f-e2cb-4e4e-bfe3-f415b091268e.jpg" alt="Model wearing Ole Father graphic tee" style={{height: "120%"}} />
           <div className="price-badge">EVERY<br/>DESIGN<b>$45</b></div>
         </div>
       </section>
@@ -172,7 +172,7 @@ export default function Home() {
           <Link href="#featured" className="btn btn-solid" style={{background:"var(--yellow)", color:"var(--black)", width:"fit-content"}}>Discover Ole Father</Link>
         </div>
         <div className="split-img">
-          <img src="https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?auto=format&fit=crop&w=1200&q=80" alt="Screen print" style={{height: "120%"}} />
+          <img src="/e6e838e9-587f-4934-8730-d29993984dcb.jpg" alt="Screen print" style={{height: "120%"}} />
         </div>
       </div>
 
